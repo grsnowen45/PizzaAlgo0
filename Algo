@@ -4,5 +4,8 @@ Decide which type of pizza to order
 Call the pizza place
 order
 pay
+    6a. if CC, pay over phone
+    6b. if paying with cash, pay when pizza man arrives 
 wait
 open door when pizza man arrives! 
+if he doesnt have the pizza, rough him up
